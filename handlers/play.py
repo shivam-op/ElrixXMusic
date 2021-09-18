@@ -506,12 +506,12 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("⛑ Groups", url=f"https://t.me/Dramaa_Club"),
-                    InlineKeyboardButton("📍 Channel", url=f"https://t.me/Sanki_BOTs"),
+                    InlineKeyboardButton("⛑ Groups", url=f"https://t.me/FUN_GRPCHAT"),
+                    InlineKeyboardButton("📍 Channel", url=f"https://t.me/INCREDIBLE_SPAM_BOT"),
                 ],
                 [
                     InlineKeyboardButton("📖 Playlist", callback_data="playlist"),
-                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/Oo_Elrix"),
+                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/SHIVAM9412"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -557,12 +557,12 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("⛑ Groups", url=f"https://t.me/Dramaa_Club"),
-                    InlineKeyboardButton("📍 Channel", url=f"https://t.me/Sanki_BOTs"),
+                    InlineKeyboardButton("⛑ Groups", url=f"https://t.me/FUN_GRPCHAT"),
+                    InlineKeyboardButton("📍 Channel", url=f"https://t.me/INCREDIBLE_SPAM_BOT"),
                 ],
                 [
                     InlineKeyboardButton("📖 Playlist", callback_data="playlist"),
-                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/Oo_Elrix"),
+                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/S"HIVAM9412),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -645,12 +645,12 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("⛑ Groups", url=f"https://t.me/Dramaa_Club"),
-                    InlineKeyboardButton("📍 Channel", url=f"https://t.me/Sanki_BOTs"),
+                    InlineKeyboardButton("⛑ Groups", url=f"https://t.me/FUN_GRPCHAT"),
+                    InlineKeyboardButton("📍 Channel", url=f"https://t.me/INCREDIBLE_SPAM_BOT"),
                 ],
                 [
                     InlineKeyboardButton("📖 Playlist", callback_data="playlist"),
-                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/Oo_Elrix"),
+                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/SHIVAM9412"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -791,12 +791,12 @@ async def ytplay(_, message: Message):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("⛑ Groups", url=f"https://t.me/Dramaa_Club"),
-                    InlineKeyboardButton("📍 Channel", url=f"https://t.me/Sanki_BOTs"),
+                    InlineKeyboardButton("⛑ Groups", url=f"https://t.me/FUN_GRPCHAT"),
+                    InlineKeyboardButton("📍 Channel", url=f"https://t.me/INCREDIBLE_SPAM_BOT"),
                 ],
                 [
                     InlineKeyboardButton("📖 Playlist", callback_data="playlist"),
-                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/Oo_Elrix"),
+                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/SHIVAM9412"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -933,7 +933,7 @@ async def deezer(client: Client, message_: Message):
     
     keyboard = InlineKeyboardMarkup(
         [
-            [InlineKeyboardButton(text="📍 Channel", url="https://t.me/Sanki_BOTs")],
+            [InlineKeyboardButton(text="📍 Channel", url="https://t.me/INCREDIBLE_SPAM_BOT")],
         ]
     )
     file_path = await converter.convert(wget.download(url))
@@ -1031,12 +1031,12 @@ async def lol_cb(b, cb):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("⛑ Groups", url=f"https://t.me/Dramaa_Club"),
-                    InlineKeyboardButton("📍 Channel", url=f"https://t.me/Sanki_BOTs"),
+                    InlineKeyboardButton("⛑ Groups", url=f"https://t.me/FUN_GRPCHAT"),
+                    InlineKeyboardButton("📍 Channel", url=f"https://t.me/INCREDIBLE_SPAM_BOT"),
                 ],
                 [
                     InlineKeyboardButton("📖 Playlist", callback_data="playlist"),
-                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/Oo_Elrix"),
+                    InlineKeyboardButton(" Owner", url=f"https://t.me/shivam9412"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
