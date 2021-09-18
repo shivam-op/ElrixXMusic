@@ -562,7 +562,7 @@ async def play(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton("📖 Playlist", callback_data="playlist"),
-                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/S"HIVAM9412),
+                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/SHIVAM9412"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
